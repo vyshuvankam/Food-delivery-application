@@ -124,7 +124,7 @@ Add screenshots of:
 
 GitHub: https://github.com/vyshuvankam
 
-LinkedIn: https://linkedin.com/in/vankamvyshnavi
+LinkedIn: https://linkedin.com/in/vyshnavivankam
 
 ---
 
