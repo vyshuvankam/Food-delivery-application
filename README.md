@@ -16,7 +16,6 @@ The Food Delivery Application is designed to simplify the online food ordering p
 ### User
 - User Registration and Login
 - Browse Food Menu
-- Search Food Items
 - Add Items to Cart
 - Place Orders
 - View Order History
